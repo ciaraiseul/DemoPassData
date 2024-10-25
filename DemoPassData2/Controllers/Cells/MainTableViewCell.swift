@@ -1,10 +1,3 @@
-//
-//  MainTableViewCell.swift
-//  DemoPassData2
-//
-//  Created by Tao on 10/11/24.
-//
-
 import UIKit
 
 class MainTableViewCell: UITableViewCell {
